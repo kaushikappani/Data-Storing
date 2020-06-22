@@ -9,6 +9,9 @@ mongoose.connect("**your mongodb uri**",{
     useUnifiedTopology:true   
 });    
 ```
+<p align="center">
+  <img src="image.png" width=100%, height=100%>
+ </p>
 and to install required pakages in command line enter 
 ```
 npm install
